@@ -1,4 +1,4 @@
-# Numbers-Even-or-Odd
+# Numbers Even or Odd
 This program reads a text file named "number.txt" and creates another two text file to separate the even and odd number from "number.txt"
 
 # ❓ How to run this program:
